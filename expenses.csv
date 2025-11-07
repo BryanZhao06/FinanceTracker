@@ -1,6 +1,6 @@
-Sushi,50.0,Food
-Pizza,5.0,Food
-Taxi,35.0,Transportation
-Apples,6.0,Food
-Movie,24.43,Entertainment
-Movie,20.22,Entertainment
+Expense,Cost ($),Category
+Taxi,15.5,🚗 Transportation
+Movie,19.99,🎬 Entertainment
+Burger,6.99,🍔 Food
+Bank Deposit,100.0,💵 Savings
+Textbook,67.67,📚 Miscellaneous
